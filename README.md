@@ -33,7 +33,6 @@
 ## 📫 Contact Me
 - Email: minhazt14@gmail.com  
 - LinkedIn: linkedin.com/in/minhaz-dev1 
----
-> “Strive for continuous improvement, instead of perfection.” 💡
+  
 
 
