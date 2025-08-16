@@ -1,4 +1,3 @@
-https://images.unsplash.com/photo-1517430816045-df4b7de1f5b6?auto=format&fit=crop&w=1350&q=80
 
 # Hi 👋, I'm Minhajur Rahman
 **PHP | Laravel Developer**
