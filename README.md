@@ -19,8 +19,6 @@
 ## 🚀 Projects
 - [Sales Inventory Management System](#) – Built with Laravel, custom JWT authentication, dynamic reports, and automated invoice generation.   
 - [Asset Management System](#) – Built a Laravel-based Mutual Fund & Asset Management System for brokerage houses with portfolio tracking, transaction processing, and reporting.
-- [BO Acknowledgement PDF Extractor](#) – PDF text extraction and storage using Laravel & DOMPDF.  
-
 ---
 
 ## 📊 GitHub Stats
