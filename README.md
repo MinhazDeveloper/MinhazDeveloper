@@ -37,7 +37,7 @@ Postman
 
 ## 🚀 Projects
 
-- [**Sales Inventory Management System**](#)  
+- [**Sales Inventory Management System**](https://github.com/MinhazDeveloper/Sales-Inventory-Management-System)  
   Laravel-based system with **JWT authentication**, **dynamic reports**, and **automated invoice generation**.  
   **Tech Stack:** Laravel, PHP, MySQL, JavaScript  
 
@@ -58,4 +58,3 @@ Postman
 ## 📫 Contact Me
 - **Email:** minhazt14@gmail.com  
 - **LinkedIn:** [linkedin.com/in/minhaz-dev1](https://www.linkedin.com/in/minhaz-dev1)  
-- **Portfolio / Other:** (আপনি চাইলে এখানে যোগ করতে পারেন)
