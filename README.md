@@ -12,10 +12,11 @@ My passion is building scalable web applications and APIs using Laravel
 ---
 
 ## 🛠 Skills
-**Backend:** PHP, Laravel, Lumen, REST APIs  
+**Backend:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel) REST APIs  
 **Frontend:** HTML, CSS, JavaScript, Bootstrap  
 **Database:** MySQL, PostgreSQL  
-**Tools & Others:** Git, GitHub, Postman
+**Tools:** Git, GitHub, Postman
+
 
 ---
 
