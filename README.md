@@ -27,6 +27,7 @@ My passion is building scalable web applications and APIs using Laravel
 ## 📊 GitHub Stats
 ![Minhaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MinhazDeveloper&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhazDeveloper&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MinhazDeveloper&theme=radical)
 
 ---
 
