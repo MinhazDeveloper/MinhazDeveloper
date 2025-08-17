@@ -1,6 +1,7 @@
 
 # Hi 👋, I'm Minhajur Rahman
 **PHP | Laravel Developer**
+
 My passion is building scalable web applications and APIs using Laravel
 
 🌱 I’m currently focusing on building scalable web applications with Laravel and modern PHP practices.  
