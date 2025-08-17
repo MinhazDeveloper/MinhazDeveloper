@@ -36,15 +36,6 @@ Postman
 ---
 
 ## 🚀 Projects
-
-Tech Stack:
-
-Backend: Laravel, PHP
-
-Frontend: HTML, CSS, JavaScript, Bootstrap
-
-Database: MySQL
-
 - [**Sales Inventory Management System**](https://github.com/MinhazDeveloper/Sales-Inventory-Management-System)  
   Laravel-based system with **JWT authentication**, **dynamic reports**, and **automated invoice generation**.  
   **Tech Stack:** Laravel, PHP, MySQL, JavaScript  
