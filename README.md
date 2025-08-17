@@ -4,9 +4,10 @@
 
 My passion is building scalable web applications and APIs using Laravel
 
-🌱 I’m currently focusing on building scalable web applications with Laravel and modern PHP practices.  
-💼 2+ years of experience in backend development and RESTful API design.  
-💻 Passionate about clean code, automation, and problem-solving.
+🌱 Focusing on building scalable web applications and RESTful APIs with Laravel and modern PHP practices.
+💼 2+ years of experience in backend development, API design, and database optimization.
+💻 Passionate about clean code, automation, and solving complex problems efficiently.
+🚀 Always learning and exploring new technologies to improve performance and scalability.
 
 ---
 
