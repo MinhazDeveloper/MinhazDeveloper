@@ -16,9 +16,14 @@ My passion is building scalable web applications and APIs using Laravel
 **Frontend:** HTML, CSS, JavaScript, Bootstrap  
 **Database:** MySQL, PostgreSQL  
 **Tools:** Git, GitHub, Postman
-
-
 ---
+## 🛠 Projects
+
+- [**Sales Inventory Management System**](https://github.com/minhaz/sales-inventory) – Developed with Laravel featuring **custom JWT authentication**, **dynamic reporting**, and **automated invoice generation** to streamline sales operations.  
+  🌐 [Live Demo](https://sales.example.com)
+
+- [**Asset Management System**](https://github.com/minhaz/ams) – Laravel-based **Mutual Fund & Asset Management platform** for brokerage houses, including **portfolio tracking**, **transaction processing**, and **advanced reporting** for efficient fund management.  
+  🌐 [Live Demo](https://ams.example.com)
 
 ## 🚀 Projects
 - [Sales Inventory Management System](#) – Built with Laravel, custom JWT authentication, dynamic reports, and automated invoice generation.   
