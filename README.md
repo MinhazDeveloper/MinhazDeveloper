@@ -43,7 +43,7 @@ Postman
 
 - [**Asset Management System**](#)  
   Mutual Fund & Asset Management application with **portfolio tracking**, **transaction processing**, and **smart reporting**.  
-  **Tech Stack:** Laravel, PHP, PostgreSQL, Bootstrap  
+  **Tech Stack:** Zend, PHP, MySQL, JavaScript
 
 ---
 
