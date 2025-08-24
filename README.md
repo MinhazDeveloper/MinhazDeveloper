@@ -37,7 +37,7 @@ Postman
 
 ## 🚀 Projects
 - [**Sales Inventory Management System**](https://github.com/MinhazDeveloper/Sales-Inventory-Management-System)  
-  Laravel-based Sales & Inventory Management System with Firebase **JWT authentication**, **customer, product & category management**, **invoicing**, and **reporting dashboard**
+  Laravel-based Sales & Inventory Management System with Firebase **JWT authentication**, **customer, product & category management**, **invoicing**, and **reporting dashboard**.
   **Tech Stack:** Laravel, PHP, MySQL, JavaScript  
 
 - [**Asset Management System**](#)  
