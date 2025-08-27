@@ -57,7 +57,6 @@ Postman
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhazDeveloper&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MinhazDeveloper&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=MinhazDeveloper&theme=radical)
 
 
 
