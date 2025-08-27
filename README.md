@@ -52,7 +52,6 @@ Postman
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=MinhazDeveloper&theme=dark&hide_border=true)
 
 ![Minhaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MinhazDeveloper&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhazDeveloper&layout=compact&theme=radical)  
