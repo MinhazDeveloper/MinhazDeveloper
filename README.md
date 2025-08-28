@@ -65,4 +65,7 @@ Postman
 
 ## 📫 Contact Me
 - **Email:** minhazt14@gmail.com  
-- **LinkedIn:** [linkedin.com/in/minhaz-dev1](https://www.linkedin.com/in/minhaz-dev1)  
+- **LinkedIn:** [linkedin.com/in/minhaz-dev1](https://www.linkedin.com/in/minhaz-dev1)
+
+- ![Profile views](https://komarev.com/ghpvc/?username=MinhazDeveloper&color=blue)
+
