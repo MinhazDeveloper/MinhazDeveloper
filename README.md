@@ -36,6 +36,40 @@ Postman
 ---
 
 ## 🚀 Projects
+- # Ecommerce Project
+  ## Features
+
+✅ User Authentication (Register / Login)
+
+✅ Product Management (CRUD operations for Admin)
+
+✅ Category & Subcategory Management
+
+✅ Shopping Cart System
+
+✅ Add to Cart, Update, Remove Items
+
+✅ Checkout with Billing Information
+
+✅ Order Placement & Order History
+
+✅ Admin Dashboard for managing products, users, and orders
+
+✅ Responsive UI with Bootstrap
+
+✅ Secure Payment Integration (Stripe/PayPal if added)
+
+**Tech Stack:**
+Backend: Laravel (PHP)
+
+Frontend: Blade Templates, Bootstrap, JavaScript
+
+Database: MySQL
+
+Authentication: Laravel Jetstream
+
+Payment Gateway: Stripe
+
 - # Sales & Inventory Management System
   ## Features
 - User Authentication (JWT, Firebase)
