@@ -1,6 +1,6 @@
 # Hi 👋, I'm Minhajur Rahman
 **PHP | Laravel Developer**  
-Building scalable web applications and RESTful APIs with clean and maintainable code.
+💻 **Laravel Developer | Building scalable web apps & RESTful APIs**
 
 ---
 
