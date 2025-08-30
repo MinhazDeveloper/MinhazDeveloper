@@ -38,7 +38,6 @@
 ## 🚀 Projects
 
 ### 🛒 Ecommerce Project  
-[📂 Source Code](#) | [🔗 Live Demo](#)  
 
 **Features**  
 ✅ User Authentication (Register / Login)  
@@ -55,7 +54,6 @@
 ---
 
 ### 📦 Sales & Inventory Management System  
-[📂 Source Code](#)  
 
 **Features**  
 ✅ User Authentication (JWT, Firebase)  
