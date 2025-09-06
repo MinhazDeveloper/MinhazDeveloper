@@ -72,7 +72,7 @@ Mutual Fund & Asset Management application with:
 ✅ Transaction Processing  
 ✅ Smart Reporting  
 
-**Tech Stack:** Laravel, Zend, PHP, MySQL, JavaScript  
+**Tech Stack:** Laravel, PHP, MySQL, JavaScript  
 
 ---
 
