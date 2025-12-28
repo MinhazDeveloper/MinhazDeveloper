@@ -76,17 +76,6 @@ Laravel | PHP | MySQL | Sanctum | REST API | Postman | Git
 
 ---
 
-### 💼 Asset Management System  
-
-Mutual Fund & Asset Management application with:  
-✅ Portfolio Tracking  
-✅ Transaction Processing  
-✅ Smart Reporting  
-
-**Tech Stack:** Laravel, PHP, MySQL, JavaScript  
-
----
-
 ## 📊 GitHub Stats  
 
 | ![Stats](https://github-readme-stats.vercel.app/api?username=MinhazDeveloper&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhazDeveloper&layout=compact&theme=radical) |
