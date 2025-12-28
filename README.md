@@ -43,19 +43,24 @@
 
 ## 🚀 Projects
 
-### 🛒 Ecommerce Project  
+## 🛒 Ecommerce REST API
 
-**Features**  
-✅ User Authentication (Register / Login)  
-✅ Product & Category Management (CRUD for Admin)  
-✅ Shopping Cart System (Add, Update, Remove)  
-✅ Checkout with Billing Information  
-✅ Order Placement & Order History  
-✅ Admin Dashboard for managing products, users & orders  
-✅ Responsive UI with Bootstrap  
-✅ Secure Payment Integration (Stripe/PayPal)  
+A scalable and secure Ecommerce Backend API built with Laravel for real-world online stores.
 
-**Tech Stack:** Laravel, PHP, Blade, Bootstrap, JavaScript, MySQL, Laravel Jetstream, Stripe  
+### Key Features
+- RESTful APIs for authentication, products, cart, wishlist & orders
+- Secure API authentication using Laravel Sanctum
+- Role-Based Access Control (Admin, Vendor, Customer)
+- bKash payment gateway integration
+- Optimized database queries using Eloquent relationships
+- Centralized validation, exception handling & JSON responses
+- Database versioning using migrations & seeders
+
+### Tech Stack
+Laravel | PHP | MySQL | Sanctum | REST API | Postman | Git
+
+🔗 GitHub: https://github.com/MinhazDeveloper/ecommerceAPI
+
 
 ---
 
