@@ -16,7 +16,10 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php) 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel) 
 ![Lumen](https://img.shields.io/badge/Lumen-FF2D20?style=flat&logo=lumen) 
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat&logo=swagger)  
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat&logo=swagger)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens)  
+![Laravel Sanctum](https://img.shields.io/badge/Laravel%20Sanctum-FF2D20?style=flat&logo=laravel)  
+![MVC](https://img.shields.io/badge/MVC-0081CB?style=flat)
 
 **Frontend:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5) 
