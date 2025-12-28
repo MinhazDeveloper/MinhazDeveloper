@@ -1,5 +1,5 @@
 # Hi 👋, I'm Minhajur Rahman  
-💻 **Laravel Developer | Building scalable web apps & RESTful APIs**
+💻 **Laravel Developer | Building scalable web apps & RESTful APIs | Vue.js (Basic)**
 
 ---
 
